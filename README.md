@@ -1,2 +1,2 @@
 # cloudtest
-test
+Very First Cloud environment. Awesome ;)
